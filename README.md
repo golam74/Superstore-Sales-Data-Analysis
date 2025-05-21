@@ -4,7 +4,7 @@ This project analyzes sales data from a superstore (2011-2014) to uncover busine
 ![Sales by Catogory](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/70105004be45f6e9e51bf58eca90bb564f3ce08c/Figure_2.png)
 ![Sales by Region](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/70105004be45f6e9e51bf58eca90bb564f3ce08c/Figure_3.png)
 ![Discount VS Profit](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/70105004be45f6e9e51bf58eca90bb564f3ce08c/Figure_4.png)
-![Category VS Sub_Category_Sales](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/70105004be45f6e9e51bf58eca90bb564f3ce08c/Figure_4.png)
+![Category VS Sub_Category_Sales](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/0442e94f509fc26bc60a64189143d015a177ee0a/Figure_5.png)
 ![Monthly By Sales](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/70105004be45f6e9e51bf58eca90bb564f3ce08c/Screenshot%202025-05-20%20163526.png)
 ![Excel Dashbord](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/70105004be45f6e9e51bf58eca90bb564f3ce08c/Screenshot%202025-05-21%20133051.png)
 ![Excel Piotalbe](https://github.com/golam74/Superstore-Sales-Data-Analysis/blob/70105004be45f6e9e51bf58eca90bb564f3ce08c/Screenshot%202025-05-21%20133222.png)
